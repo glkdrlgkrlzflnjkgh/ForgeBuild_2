@@ -1,2 +1,5 @@
 # ForgeBuild_2
-The sequel to the original ForgeBuild!
+After over a year of waiting, (wait, it was unanounced...)...
+
+
+ForgeBuild 2 IS HERE.
